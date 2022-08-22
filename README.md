@@ -1,3 +1,3 @@
-# Bantay-Balita-Using-Machine-Learning-to-Wipe-Out-Misinformation
+# Bantay Balita: Using Machine Learning to Wipe Out Misinformation
 
 Bantay Balita is a demonstration of how machine learning, as a tool, can help us distinguish the facts and explain what makes a news article credible or not. By being able to distinguish between credible and non-credible sources of information, our AI system would be able to help Filipinos - the consumers of local news information - to be more discerning of the content that they see across different social media platforms and websites. Likewise, the AI system could also be integrated among social media websites in order to be able to provide credibility scores to different sources of information that is made available on the Internet.
